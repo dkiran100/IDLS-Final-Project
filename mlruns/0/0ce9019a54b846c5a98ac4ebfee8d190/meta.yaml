@@ -1,0 +1,15 @@
+artifact_uri: file:///scratch/svn9705/IntroToDL/IDLS-Final-Project/mlruns/0/0ce9019a54b846c5a98ac4ebfee8d190/artifacts
+end_time: 1734271750289
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ce9019a54b846c5a98ac4ebfee8d190
+run_name: capable-auk-759
+run_uuid: 0ce9019a54b846c5a98ac4ebfee8d190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734269945260
+status: 3
+tags: []
+user_id: svn9705

@@ -1,0 +1,15 @@
+artifact_uri: file:///scratch/svn9705/IntroToDL/IDLS-Final-Project/mlruns/0/27a5d4420db443e1acdfda6826023642/artifacts
+end_time: 1734269820562
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27a5d4420db443e1acdfda6826023642
+run_name: LLama-toxicity-data
+run_uuid: 27a5d4420db443e1acdfda6826023642
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734267962612
+status: 3
+tags: []
+user_id: svn9705
