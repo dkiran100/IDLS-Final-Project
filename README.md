@@ -29,8 +29,7 @@ The project combines the following key techniques:
    - Baseline testing with traditional toxic prompts.  
    - Comparative analysis after introducing CoT-styled reasoning-based prompts.  
    - **Metrics**:  
-     - **Attack Success Rate (ASR)**  
-     - **Defense Efficacy**: Coherence and resistance to logical traps.  
+     - **Attack Success Rate (ASR)** 
 
 ---
 
